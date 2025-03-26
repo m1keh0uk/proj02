@@ -11,7 +11,9 @@ The graph above displays the geographic locations of meteorite landings across t
 
 ![Graph of number of immigrants in each continent](immigrants.png)
 
-The graph above shows the total number of immigrants in each continent as recorded by the UN. The data was recorded for 2005, 2010, 2015, and 2020. The data used in this graph can be found at this link: https://data.un.org/_Docs/SYB/CSV/SYB67_327_202411_International%20Migrants%20and%20Refugees.csv
+The graph above shows the total number of immigrants in each continent as recorded by the UN. The data was recorded for 2005, 2010, 2015, and 2020. The data used in this graph can be found at this link: https://data.un.org/ 
+
+Exact csv: https://data.un.org/_Docs/SYB/CSV/SYB67_327_202411_International%20Migrants%20and%20Refugees.csv
 
 
 ### Project Instructions
